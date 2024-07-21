@@ -1,6 +1,7 @@
 import {
   HassEntityAttributeBase,
   HassEntityBase,
+  HassServiceTarget,
 } from 'home-assistant-js-websocket';
 import { TemplateResult, nothing } from 'lit';
 
@@ -44,6 +45,7 @@ export interface LawnMowerCardStat {
 export interface LawnMowerCardAction {
   service: string;
   service_data?: Record<string, unknown>;
+  target?: HassServiceTarget;
 }
 
 export interface LawnMowerCardShortcut {
@@ -51,6 +53,7 @@ export interface LawnMowerCardShortcut {
   icon?: string;
   service?: string;
   service_data?: Record<string, unknown>;
+  target?: HassServiceTarget;
 }
 
 export interface LawnMowerCardConfig {

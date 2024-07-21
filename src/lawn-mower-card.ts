@@ -134,9 +134,9 @@ export class LawnMowerCard extends LitElement {
   }
 
   private callService(action: LawnMowerCardAction) {
-    const { service, service_data } = action;
+    const { service, service_data, target } = action;
     const [domain, name] = service.split('.');
-    this.hass.callService(domain, name, service_data);
+    this.hass.callService(domain, name, service_data, target);
   }
 
   private callLawnMowerService(
@@ -441,10 +441,10 @@ export class LawnMowerCard extends LitElement {
       case 'idle':
       default: {
         const buttons = this.config.shortcuts.map(
-          ({ name, service, icon, service_data }) => {
+          ({ name, service, icon, service_data, target }) => {
             const execute = () => {
               if (service) {
-                return this.callService({ service, service_data });
+                return this.callService({ service, service_data, target });
               }
             };
             return html`
