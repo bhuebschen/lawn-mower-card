@@ -1,6 +1,6 @@
 {
   "status": {
-    "cleaning": "Siivoaa",
+    "mowing": "Siivoaa",
     "auto": "Automaattisiivous",
     "spot": "Kohdesiivous",
     "edge": "Reunasiivous",

@@ -1,6 +1,6 @@
 {
   "status": {
-    "cleaning": "청소 중",
+    "mowing": "청소 중",
     "auto": "자동 청소",
     "spot": "부분 청소",
     "edge": "가장자리 청소",

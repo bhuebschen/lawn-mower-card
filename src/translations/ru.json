@@ -1,6 +1,6 @@
 {
   "status": {
-    "cleaning": "Убирает",
+    "mowing": "Убирает",
     "paused": "Пауза",
     "idle": "Ожидает",
     "charging": "Заряжается",

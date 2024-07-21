@@ -29,7 +29,7 @@ registerTemplates();
 const PKG_VERSION = 'PKG_VERSION_VALUE';
 
 console.info(
-  `%c VACUUM-CARD %c ${PKG_VERSION}`,
+  `%c LAWN-MOWER-CARD %c ${PKG_VERSION}`,
   'color: white; background: blue; font-weight: 700;',
   'color: blue; background: white; font-weight: 700;',
 );

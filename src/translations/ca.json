@@ -1,6 +1,6 @@
 {
   "status": {
-    "cleaning": "Netejant",
+    "mowing": "Netejant",
     "paused": "En pausa",
     "idle": "Inactiu",
     "charging": "Carregant",
@@ -15,8 +15,8 @@
     "turbo": "Turbo"
   },
   "common": {
-    "name": "Vacuum Card",
-    "description": "Vacuum card us permet controlar el robot aspirador.",
+    "name": "Lawn Mower Card",
+    "description": "Lawn Mower card us permet controlar el robot aspirador.",
     "start": "Neteja",
     "continue": "Continua",
     "pause": "Pausa",

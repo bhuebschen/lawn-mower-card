@@ -1,6 +1,6 @@
 {
   "status": {
-    "cleaning": "Sprzątanie",
+    "mowing": "Sprzątanie",
     "auto": "Automatyczne sprzątanie",
     "spot": "Sprzątanie miejscowe",
     "edge": "Sprzątanie krawędziowe",
@@ -44,8 +44,8 @@
     "low": "Niskie"
   },
   "common": {
-    "name": "Vacuum Card",
-    "description": "Vacuum Card pozwala zdalnie kontrolować odkurzacz.",
+    "name": "Lawn Mower Card",
+    "description": "Lawn Mower Card pozwala zdalnie kontrolować odkurzacz.",
     "start": "Sprzątaj",
     "continue": "Kontynuuj",
     "pause": "Wstrzymaj",

@@ -1,6 +1,6 @@
 {
   "status": {
-    "cleaning": "Limpando",
+    "mowing": "Limpando",
     "auto": "Limpeza automatica",
     "spot": "Limpando local",
     "edge": "Limpando borda",
@@ -27,8 +27,8 @@
     "strong": "Forte"
   },
   "common": {
-    "name": "Vacuum Card",
-    "description": "Vacuum card para controlar seu robô aspirador.",
+    "name": "Lawn Mower Card",
+    "description": "Lawn Mower card para controlar seu robô aspirador.",
     "start": "Limpar",
     "continue": "Continuar",
     "pause": "Pausa",

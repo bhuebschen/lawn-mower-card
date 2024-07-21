@@ -1,6 +1,6 @@
 {
   "status": {
-    "cleaning": "清扫中",
+    "mowing": "清扫中",
     "auto": "自动清扫",
     "spot": "区域清扫",
     "edge": "边缘清扫",
@@ -30,8 +30,8 @@
     "max+": "Max+"
   },
   "common": {
-    "name": "Vacuum Card",
-    "description": "Vacuum Card 允许您控制您的扫地机器人。",
+    "name": "Lawn Mower Card",
+    "description": "Lawn Mower Card 允许您控制您的扫地机器人。",
     "start": "清扫",
     "continue": "继续",
     "pause": "暂停",

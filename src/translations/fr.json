@@ -1,6 +1,6 @@
 {
   "status": {
-    "cleaning": "Nettoyage",
+    "mowing": "Nettoyage",
     "auto": "Nettoyage Automatique",
     "spot": "Nettoyage Localisé",
     "edge": "Nettoyage Contours",
@@ -25,8 +25,8 @@
     "high": "Intense"
   },
   "common": {
-    "name": "Vacuum Carte",
-    "description": "Vacuum carte vous permet de contrôler votre robot aspirateur.",
+    "name": "Lawn Mower Carte",
+    "description": "Lawn Mower carte vous permet de contrôler votre robot aspirateur.",
     "start": "Nettoyer",
     "continue": "Continuer",
     "pause": "Pause",

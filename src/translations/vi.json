@@ -1,6 +1,6 @@
 {
   "status": {
-    "cleaning": "Đang dọn dẹp",
+    "mowing": "Đang dọn dẹp",
     "paused": "Dừng",
     "idle": "Nghỉ",
     "charging": "Đang sạc",

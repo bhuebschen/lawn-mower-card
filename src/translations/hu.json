@@ -1,6 +1,6 @@
 {
   "status": {
-    "cleaning": "Takarítás",
+    "mowing": "Takarítás",
     "auto": "Automatikus takarítás",
     "spot": "Célzott takarítás",
     "edge": "Széltakarítás",
