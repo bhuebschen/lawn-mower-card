@@ -216,6 +216,7 @@ This card supports translations. Please, help to add more translations and impro
 - Română (Romanian)
 - 简体中文 (Simplified Chinese)
 - 日本語 (Japanese)
+- Slovenščina (Slovenian)
 - [_Your language?_][add-translation]
 
 ## Supported models
