@@ -228,6 +228,7 @@ If this card works with your lawn mower, please open a PR and your model to the 
 - **EcoVacs** GOAT G1, GOAT G1-800, GOAT G1-2000, GOAT GX-600
 - **OpenMower:** https://github.com/ClemensElflein/OpenMower
 - **Dreame** A1
+- **Robonect** Hx
 - [_Your lawn mower?_][edit-readme]
 
 ## Development
