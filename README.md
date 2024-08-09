@@ -225,7 +225,7 @@ This card relies on basic lawn-mower services, like `pause`, `start`, `stop`, `r
 If this card works with your lawn mower, please open a PR and your model to the list.
 
 - **EcoVacs** GOAT G1, GOAT G1-800, GOAT G1-2000, GOAT GX-600
-
+- **Dreame** A1
 - [_Your lawn mower?_][edit-readme]
 
 ## Development
